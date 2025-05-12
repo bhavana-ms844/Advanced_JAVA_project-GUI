@@ -19,7 +19,9 @@ This is a Java Swing-based desktop application that allows users to convert amou
 
 ## 📸 Screenshot
 
-![Currency Converter Screenshot]((https://github.com/user-attachments/assets/c3e83761-380c-4ba8-8a1f-0e3eb501e032)((https://github.com/user-attachments/assets/136a512b-2350-4716-9b3c-9e2a8ef089e2))(https://github.com/user-attachments/assets/a9fa1437-cd4c-4f5c-ba66-73cdf66c2a6f) <!-- Replace with your actual screenshot file name -->
+https://github.com/user-attachments/assets/c3e83761-380c-4ba8-8a1f-0e3eb501e032
+https://github.com/user-attachments/assets/136a512b-2350-4716-9b3c-9e2a8ef089e2
+https://github.com/user-attachments/assets/a9fa1437-cd4c-4f5c-ba66-73cdf66c2a6f <!-- Replace with your actual screenshot file name -->
 
 ## 🛠️ How to Run
 
