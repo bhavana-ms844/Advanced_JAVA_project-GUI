@@ -27,5 +27,5 @@ https://github.com/user-attachments/assets/a9fa1437-cd4c-4f5c-ba66-73cdf66c2a6f 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CurrencyConverterApp.git
+   git clone https://github.com/bhavana-ms844/Advanced_JAVA_project-GUI
    cd CurrencyConverterApp
